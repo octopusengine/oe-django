@@ -5,8 +5,9 @@
 <a href = https://scotch.io/tutorials/build-your-first-python-and-django-application>build-your-first-python-and-django-app</a><br />
 <code>pip install Django</code><br />
 <i>django-admin startproject helloapp</i><br />
-
-
+<i>python manage.py startapp howdy</i><br />
 
 <hr />
 <a href=https://docs.djangoproject.com/en/1.11/intro/tutorial01/>tutor0</a><br />
+
+
